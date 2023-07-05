@@ -5,12 +5,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm Isurinda Shamika</h1>
 <h3 align="center">Programmer</h3>
 🙋‍♂️ About Me
- - 🔭 I’m Owner for <b> My Life Style </b> 
- - 🌱 I’m currently learning <b>**All Subjects in world**</b>
- - 👯 I’m looking to collaborate on <b>**OpenSource Projects**</b>
- - 👨‍💻 All of my projects are available at <b>**[My profile](https://github.com/Isurinda-Shamika)**</b>
- - 📫 How to reach me <b>**isurindashamika20000524@gmail.com**</b>
- - ⚡ Fun fact <b>**I play games**</b>
+ <b>- 🔭 I’m Owner for  My Life Style </b> 
+ <b>- 🌱 I’m currently learning **All Subjects in world**</b>
+ <b>- 👯 I’m looking to collaborate on **OpenSource Projects**</b>
+ <b>- 👨‍💻 All of my projects are available at **[My profile](https://github.com/Isurinda-Shamika)**</b>
+ <b>- 📫 How to reach me **isurindashamika20000524@gmail.com**</b>
+ <b>- ⚡ Fun fact **I play games**</b>
 This is my life motto:
 ```php
 // Enquanto a vida for Open Source...
