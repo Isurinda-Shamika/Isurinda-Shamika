@@ -5,20 +5,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm Isurinda Shamika</h1>
 <h3 align="center">Programmer</h3>
 🙋‍♂️ About Me
- <b>- 🔭 I’m Owner for  My Life Style </b> 
- <b>- 🌱 I’m currently learning **All Subjects in world**</b>
- <b>- 👯 I’m looking to collaborate on **OpenSource Projects**</b>
- <b>- 👨‍💻 All of my projects are available at **[My profile](https://github.com/Isurinda-Shamika)**</b>
- <b>- 📫 How to reach me **isurindashamika20000524@gmail.com**</b>
- <b>- ⚡ Fun fact **I play games**</b>
-This is my life motto:
-```php
-// Enquanto a vida for Open Source...
-while($life->isOpenSource()) {
-    // diz que ama codar e ama alguém inteligente
-    echo 'I love to code. I love you, ' . $name . '! ';
-}
-```
+ 
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
