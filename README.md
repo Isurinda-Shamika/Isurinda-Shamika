@@ -3,7 +3,7 @@
 </p>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm Isurinda Shamika</h1>
-<h3 align="center"> </h3>
+<h3 align="center">Programmer</h3>
 ## 🙋‍♂️ About Me
 - 🔭 I’m Owner for <b> My Life Style </b> 
 - 🌱 I’m currently learning **All Subjects in world**
