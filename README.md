@@ -47,7 +47,7 @@ Connect with me:
 
 <a href = "https://www.linkedin.com/in/isurinda-shamika-231263216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/profile.php?id=100006698779004"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/_isurinda_/"><img src="https://icons8.com/icons/set/instagram"/></a>
+<a href = "https://www.instagram.com/_isurinda_/"><img src="https://icons8.com/icon/48841/instagram.png"/></a>
 
 </p>
 ❤ Views and Followers
