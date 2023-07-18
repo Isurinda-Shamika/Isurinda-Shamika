@@ -41,14 +41,16 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-## Connect with me:
+Connect with me:
 <p align="left">
 
 
-<a href = "https://github.com/Isurinda-Shamika/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/isurinda-shamika-231263216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/profile.php?id=100006698779004"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/_isurinda_/"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
 
 </p>
-## ❤ Views and Followers
+❤ Views and Followers
 <a href="https://github.com/Isurinda-Shamika/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
