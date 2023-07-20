@@ -45,8 +45,8 @@ Connect with me:
 <p align="left">
 
 
-<a href = "https://www.linkedin.com/in/isurinda-shamika-231263216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://web.facebook.com/profile.php?id=100006698779004"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/isurinda-shamika-231263216/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40/></a>
+<a href = "https://web.facebook.com/profile.php?id=100006698779004"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40"/></a>
 <a href = "https://www.instagram.com/_isurinda_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/></a>
 
 </p>
