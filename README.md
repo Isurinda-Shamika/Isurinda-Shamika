@@ -9,17 +9,15 @@
 <br>
 <p>I'm Isurinda Shamika, an enthusiastic undergraduate student at SLIIT University, pursuing my passion for technology and software development. 🎓</p>
 <br>
-<br>
 <p>🌱 About Me:</p>
-<br>
 <br>
 <p>📚 Current Undergraduate Student at SLIIT University</p>
 <p>👨‍💻 Aspiring Software Developer</p>
 <p>🌐 Tech Enthusiast | 🚀 Exploring the world of code</p>
 <p>🌟 Dedicated to lifelong learning and growth</p>
-
+<br>
 <p>💻 My Interests:</p>
-
+<br>
 <p>🌐 Web Development</p>
 <p>📱 Mobile App Development</p>
 <p>💡 Problem Solving</p>
