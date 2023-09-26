@@ -5,10 +5,21 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm Isurinda Shamika</h1>
 <h3 align="center">Programmer</h3>
 🙋‍♂️ About Me
-<p></p>
-<p>I'm Isurinda Shamika, an enthusiastic undergraduate student at SLIIT University, pursuing my passion for technology and software development. 🎓</p>
+<p>
 
+  
+</p>
+
+<p>I'm Isurinda Shamika, an enthusiastic undergraduate student at SLIIT University, pursuing my passion for technology and software development. 🎓</p>
+<p>
+
+  
+</p>
 <p>🌱 About Me:</p>
+<p>
+
+  
+</p>
 
 <p>📚 Current Undergraduate Student at SLIIT University</p>
 <p>👨‍💻 Aspiring Software Developer</p>
