@@ -21,7 +21,7 @@
 <p>🌐 Web Development</p>
 <p>📱 Mobile App Development</p>
 <p>💡 Problem Solving</p>
- 
+ <br>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
