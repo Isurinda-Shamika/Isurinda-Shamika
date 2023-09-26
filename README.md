@@ -5,6 +5,20 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm Isurinda Shamika</h1>
 <h3 align="center">Programmer</h3>
 🙋‍♂️ About Me
+I'm Isurinda Shamika, an enthusiastic undergraduate student at SLIIT University, pursuing my passion for technology and software development. 🎓
+
+🌱 About Me:
+
+📚 Current Undergraduate Student at SLIIT University
+👨‍💻 Aspiring Software Developer
+🌐 Tech Enthusiast | 🚀 Exploring the world of code
+🌟 Dedicated to lifelong learning and growth
+
+💻 My Interests:
+
+🌐 Web Development
+📱 Mobile App Development
+💡 Problem Solving
  
 
 ## 🚀 Languages and Tools:
